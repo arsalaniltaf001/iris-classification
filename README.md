@@ -42,7 +42,7 @@ Run the notebook:
 jupyter notebook iris_classification.ipynb
 🧑‍💻 Author
 Muhammad Arsalan
-AI Engineer (in training) | MS Computer Science – CUST
+AI Engineer | MS Computer Science – CUST
 ⭐ Future Work
 Try additional models (SVM, KNN)
 Deploy the model using Streamlit or Flask
